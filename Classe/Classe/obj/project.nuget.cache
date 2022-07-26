@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "rJseULWKxm0E9nuARrfFy+ut/aryS6XJLCmNK2zQdK10aC3+xmMEgxcTW7aII/XE9Dtpa+QfB+LsK17viS3nfw==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\ftodd\\OneDrive\\Área de Trabalho\\Projetos Gen\\Classe_Cachorro\\Classe\\Classe\\Classe.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\ftodd\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\5.0.16\\microsoft.netcore.app.host.win-x64.5.0.16.nupkg.sha512"
+  ],
+  "logs": []
+}
